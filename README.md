@@ -1,4 +1,4 @@
-## FineTuned Dark Stereo Teacher Network:  "Unifying Flow, Stereo and Depth Estimation [TPAMI 2023]" (Unimatch)
+# FineTuned Dark Stereo Teacher Network (Unimatch)
 
 
 ```
@@ -9,8 +9,6 @@
   year={2022}
 }
 ```
-
-This work is a substantial extension of our previous conference paper [GMFlow (CVPR 2022, Oral)](https://arxiv.org/abs/2111.13680), please consider citing GMFlow as well if you found this work useful in your research.
 
 ```
 @inproceedings{xu2022gmflow,
